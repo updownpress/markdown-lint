@@ -1,4 +1,4 @@
-# Markdown Lint Tool / Checker Documentaton (Manuscripts Edition)
+# Markdown Lint Tool / Checker Documentation (Manuscripts Edition)
 
 by Mark Harrison
  
