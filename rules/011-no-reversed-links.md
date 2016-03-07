@@ -1,8 +1,8 @@
-## MD011 - Reversed link syntax
-
-Tags: links
-
-Aliases: no-reversed-links
+---
+title: MD011 - Reversed link syntax
+tags:  [links]
+alias: no-reversed-links
+---
 
 This rule is triggered when text that appears to be a link is encountered, but
 where the syntax appears to have been reversed (the `[]` and `()` are
