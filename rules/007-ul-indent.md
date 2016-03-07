@@ -1,8 +1,8 @@
-## MD007 - Unordered list indentation
-
-Tags: bullet, ul, indentation
-
-Aliases: ul-indent
+---
+title: MD007 - Unordered list indentation
+tags:  [bullet, ul, indentation]
+alias: ul-indent
+---
 
 Parameters: indent (number; default 2)
 
