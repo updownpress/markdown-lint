@@ -1,8 +1,8 @@
-## MD018 - No space after hash on atx style header
-
-Tags: headers, atx, spaces
-
-Aliases: no-missing-space-atx
+---
+title: MD018 - No space after hash on atx style header
+tags:  [headers, atx, spaces]
+alias: no-missing-space-atx
+---
 
 This rule is triggered when spaces are missing after the hash characters
 in an atx style header:
