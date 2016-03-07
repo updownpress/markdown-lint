@@ -1,8 +1,8 @@
-## MD003 - Header style
-
-Tags: headers
-
-Aliases: header-style
+---
+title: MD003 - Header style
+tags:  [headers]
+alias: header-style
+---
 
 Parameters: style ("consistent", "atx", "atx_closed", "setext", "setext_with_atx"; default "consistent")
 
