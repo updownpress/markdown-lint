@@ -1,8 +1,8 @@
-## MD005 - Inconsistent indentation for list items at the same level
-
-Tags: bullet, ul, indentation
-
-Aliases: list-indent
+---
+title: MD005 - Inconsistent indentation for list items at the same level
+tags:  [bullet, ul, indentation]
+alias: list-indent
+---
 
 This rule is triggered when list items are parsed as being at the same level,
 but don't have the same indentation:
