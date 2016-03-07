@@ -1,8 +1,8 @@
-## MD001 - Header levels should only increment by one level at a time
-
-Tags: headers
-
-Aliases: header-increment
+---
+title: MD001 - Header levels should only increment by one level at a time
+tags:  [headers]
+alias: header-increment
+---
 
 This rule is triggered when you skip header levels in a markdown document, for
 example:
