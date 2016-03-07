@@ -1,8 +1,9 @@
-## MD013 - Line length
+---
+title: MD013 - Line length
+tags:  [line_length]
+alias: line-length
+---
 
-Tags: line_length
-
-Aliases: line-length
 Parameters: line_length, code_blocks, tables (number; default 80, boolean; default true)
 
 This rule is triggered when there are lines that are longer than the
