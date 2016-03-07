@@ -1,9 +1,8 @@
-
-## MD010 - Hard tabs
-
-Tags: whitespace, hard_tab
-
-Aliases: no-hard-tabs
+---
+title: MD010 - Hard tabs
+tags:  [whitespace, hard_tab]
+aliases: no-hard-tabs
+---
 
 This rule is triggered by any lines that contain hard tab characters instead
 of using spaces for indentation. To fix this, replace any hard tab characters
