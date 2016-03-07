@@ -1,8 +1,8 @@
-## MD009 - Trailing spaces
-
-Tags: whitespace
-
-Aliases: no-trailing-spaces
+---
+title: MD009 - Trailing spaces
+tags:  [whitespace]
+alias: no-trailing-spaces
+---
 
 Parameters: br_spaces (number; default: 0)
 
