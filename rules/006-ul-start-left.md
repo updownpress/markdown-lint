@@ -1,8 +1,8 @@
-## MD006 - Consider starting bulleted lists at the beginning of the line
-
-Tags: bullet, ul, indentation
-
-Aliases: ul-start-left
+---
+title: MD006 - Consider starting bulleted lists at the beginning of the line
+tags:  [bullet, ul, indentation]
+alias: ul-start-left
+---
 
 This rule is triggered when top level lists don't start at the beginning of a
 line:
