@@ -1,8 +1,8 @@
-## MD004 - Unordered list style
-
-Tags: bullet, ul
-
-Aliases: ul-style
+---
+title: MD004 - Unordered list style
+tags:  [bullet, ul]
+alias: ul-style
+---
 
 Parameters: style ("consistent", "asterisk", "plus", "dash"; default "consistent")
 
