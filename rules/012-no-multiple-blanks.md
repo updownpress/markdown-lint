@@ -1,8 +1,8 @@
-## MD012 - Multiple consecutive blank lines
-
-Tags: whitespace, blank_lines
-
-Aliases: no-multiple-blanks
+---
+title: MD012 - Multiple consecutive blank lines
+tags:  [whitespace, blank_lines]
+alias: no-multiple-blanks
+---
 
 This rule is triggered when there are multiple consecutive blank lines in the
 document:
