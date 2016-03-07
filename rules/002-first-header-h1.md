@@ -1,8 +1,8 @@
-## MD002 - First header should be a h1 header
-
-Tags: headers
-
-Aliases: first-header-h1
+---
+title: MD002 - First header should be a h1 header
+tags:  [headers]
+alias: first-header-h1
+---
 
 This rule is triggered when the first header in the document isn't a h1 header:
 
