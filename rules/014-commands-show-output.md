@@ -1,8 +1,8 @@
-## MD014 - Dollar signs used before commands without showing output
-
-Tags: code
-
-Aliases: commands-show-output
+---
+title: MD014 - Dollar signs used before commands without showing output
+tags:  [code]
+alias: commands-show-output
+---
 
 This rule is triggered when there are code blocks showing shell commands to be
 typed, and the shell commands are preceded by dollar signs ($):
