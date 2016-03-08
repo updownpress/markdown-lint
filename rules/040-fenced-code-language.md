@@ -1,8 +1,8 @@
-## MD040 - Fenced code blocks should have a language specified
-
-Tags: code, language
-
-Aliases: fenced-code-language
+---
+title: MD040 - Fenced code blocks should have a language specified
+tags:  [code, language]
+alias: fenced-code-language
+---
 
 This rule is triggered when fenced code blocks are used, but a language isn't
 specified:
