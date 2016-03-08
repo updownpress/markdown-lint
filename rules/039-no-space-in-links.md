@@ -1,8 +1,8 @@
-## MD039 - Spaces inside link text
-
-Tags: whitespace, links
-
-Aliases: no-space-in-links
+---
+title: MD039 - Spaces inside link text
+tags:  [whitespace, links]
+alias: no-space-in-links
+---
 
 This rule is triggered on links that have spaces surrounding the link text:
 
