@@ -1,8 +1,8 @@
-## MD028 - Blank line inside blockquote
-
-Tags: blockquote, whitespace
-
-Aliases: no-blanks-blockquote
+---
+title: MD028 - Blank line inside blockquote
+tags:  [blockquote, whitespace]
+alias: no-blanks-blockquote
+---
 
 This rule is triggered when two blockquote blocks are separated by nothing
 except for a blank line:
