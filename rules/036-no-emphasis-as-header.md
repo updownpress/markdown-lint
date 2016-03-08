@@ -1,8 +1,8 @@
-## MD036 - Emphasis used instead of a header
-
-Tags: headers, emphasis
-
-Aliases: no-emphasis-as-header
+---
+title: MD036 - Emphasis used instead of a header
+tags:  [headers, emphasis]
+alias: no-emphasis-as-header
+---
 
 This check looks for instances where emphasized (i.e. bold or italic) text is
 used to separate sections, where a header should be used instead:
