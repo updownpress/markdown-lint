@@ -1,8 +1,8 @@
-## MD030 - Spaces after list markers
-
-Tags: ol, ul, whitespace
-
-Aliases: list-marker-space
+---
+title: MD030 - Spaces after list markers
+tags:  [ol, ul, whitespace]
+alias: list-marker-space
+---
 
 Parameters: ul_single, ol_single, ul_multi, ol_multi (number, default 1)
 
