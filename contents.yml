@@ -1,98 +1,144 @@
 ########################
 #  Table of Contents
 
-- title: Getting Started
+- id: '1'
+  title: Introduction  
   sections:
-  - title: Welcome
+  - id: '1.1'
+    title: Markdown lint tool
     path:  intro.md
 
-- title: Rules
+- id: '2'
+  title: Rules
   sections:
   - title: MD001 - Header levels should only increment by one level at a time
-    path:  rules/001.md  
+    path:  rules/001-header-increment.md
+    ref:   MD001
   - title: MD002 - First header should be a h1 header
-    path:  rules/002.md  
+    path:  rules/002-first-header-h1.md
+    ref:   MD002
   - title: MD003 - Header style
-    path:  rules/003.md  
+    path:  rules/003-header-style.md  
+    ref:   MD003
   - title: MD004 - Unordered list style
-    path:  rules/004.md  
+    path:  rules/004-ul-style.md  
+    ref:   MD004
   - title: MD005 - Inconsistent indentation for list items at the same level
-    path:  rules/005.md  
+    path:  rules/005-list-indent.md  
+    ref:   MD005
   - title: MD006 - Consider starting bulleted lists at the beginning of the line
-    path:  rules/006.md  
+    path:  rules/006-ul-start-left.md  
+    ref:   MD006
   - title: MD007 - Unordered list indentation
-    path:  rules/007.md  
+    path:  rules/007-ul-indent.md  
+    ref:   MD007
   - title: MD009 - Trailing spaces
-    path:  rules/009.md  
+    path:  rules/009-no-trailing-spaces.md  
+    ref:   MD009
   - title: MD010 - Hard tabs
-    path:  rules/010.md  
+    path:  rules/010-no-hard-tabs.md  
+    ref:   MD010
   - title: MD011 - Reversed link syntax
-    path:  rules/011.md  
+    path:  rules/011-no-reversed-links.md  
+    ref:   MD011
   - title: MD012 - Multiple consecutive blank lines
-    path:  rules/012.md  
+    path:  rules/012-no-multiple-blanks.md  
+    ref:   MD012
   - title: MD013 - Line length
-    path:  rules/013.md  
+    path:  rules/013-line-length.md  
+    ref:   MD013
   - title: MD014 - Dollar signs used before commands without showing output
-    path:  rules/014.md  
+    path:  rules/014-commands-show-output.md  
+    ref:   MD014
   - title: MD018 - No space after hash on atx style header
-    path:  rules/018.md  
+    path:  rules/018-no-missing-space-atx.md  
+    ref:   MD018
   - title: MD019 - Multiple spaces after hash on atx style header
-    path:  rules/019.md  
+    path:  rules/019-no-multiple-space-atx.md  
+    ref:   MD019
   - title: MD020 - No space inside hashes on closed atx style header
     path:  rules/020.md  
+    ref:   MD020
   - title: MD021 - Multiple spaces inside hashes on closed atx style header
     path:  rules/021.md  
+    ref:   MD021
   - title: MD022 - Headers should be surrounded by blank lines
     path:  rules/022.md  
+    ref:   MD022
   - title: MD023 - Headers must start at the beginning of the line
     path:  rules/023.md  
+    ref:   MD023
   - title: MD024 - Multiple headers with the same content
     path:  rules/024.md  
+    ref:   MD024
   - title: MD025 - Multiple top level headers in the same document
     path:  rules/025.md  
+    ref:   MD025
   - title: MD026 - Trailing punctuation in header
     path:  rules/026.md  
+    ref:   MD026
   - title: MD027 - Multiple spaces after blockquote symbol
     path:  rules/027.md  
+    ref:   MD027
   - title: MD028 - Blank line inside blockquote
     path:  rules/028.md  
+    ref:   MD028
   - title: MD029 - Ordered list item prefix
     path:  rules/029.md  
+    ref:   MD029
   - title: MD030 - Spaces after list markers
     path:  rules/030.md  
+    ref:   MD030
   - title: MD031 - Fenced code blocks should be surrounded by blank lines
     path:  rules/031.md  
+    ref:   MD031
   - title: MD032 - Lists should be surrounded by blank lines
     path:  rules/032.md  
+    ref:   MD032
   - title: MD033 - Inline HTML
     path:  rules/033.md  
+    ref:   MD033
   - title: MD034 - Bare URL used
     path:  rules/034.md  
+    ref:   MD034
   - title: MD035 - Horizontal rule style
     path:  rules/035.md  
+    ref:   MD035
   - title: MD036 - Emphasis used instead of a header
     path:  rules/036.md  
+    ref:   MD036
   - title: MD037 - Spaces inside emphasis markers
     path:  rules/037.md  
+    ref:   MD037
   - title: MD038 - Spaces inside code span elements
     path:  rules/038.md  
+    ref:   MD038
   - title: MD039 - Spaces inside link text
     path:  rules/039.md  
+    ref:   MD039
   - title: MD040 - Fenced code blocks should have a language specified
     path:  rules/040.md  
+    ref:   MD040
   - title: MD041 - First line in file should be a top level header
     path:  rules/041.md  
+    ref:   MD041
 
-- title: Customization
+- id: '3'
+  title: Customization
   sections:
-  - title: Configuration
+  - id: '3.1'
+    title: Configuration
     path:  configuration.md
-  - title: Creating Styles
+  - id: '3.2'
+    title: Creating Styles
     path:  creating_styles.md
-  - title: Creating Rules
+  - id: '3.3'
+    title: Creating Rules
     path:  creating_rules.md
 
-- title: Appendix
+- id: 'A'
+  title: Appendix
   sections: 
-  - title: Change Log
+  - id: 'A.1'
+    title: Change Log
     path:  appendix/changelog.md
