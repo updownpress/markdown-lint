@@ -1,8 +1,8 @@
-## MD033 - Inline HTML
-
-Tags: html
-
-Aliases: no-inline-html
+---
+title: MD033 - Inline HTML
+tags:  [html]
+alias: no-inline-html
+---
 
 This rule is triggered whenever raw HTML is used in a markdown document:
 
