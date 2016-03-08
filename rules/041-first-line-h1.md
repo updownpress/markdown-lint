@@ -1,8 +1,8 @@
-## MD041 - First line in file should be a top level header
-
-Tags: headers
-
-Aliases: first-line-h1
+---
+title: MD041 - First line in file should be a top level header
+tags:  [headers]
+alias: first-line-h1
+---
 
 This rule is triggered when the first line in the file isn't a top level (h1)
 header:
