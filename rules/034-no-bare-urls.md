@@ -1,8 +1,8 @@
-## MD034 - Bare URL used
-
-Tags: links, url
-
-Aliases: no-bare-urls
+---
+title: MD034 - Bare URL used
+tags:  [links, url]
+alias: no-bare-urls
+---
 
 This rule is triggered whenever a URL is given that isn't surrounded by angle
 brackets:
