@@ -1,8 +1,8 @@
-## MD032 - Lists should be surrounded by blank lines
-
-Tags: bullet, ul, ol, blank_lines
-
-Aliases: blanks-around-lists
+---
+title: MD032 - Lists should be surrounded by blank lines
+tags:  [bullet, ul, ol, blank_lines]
+alias: blanks-around-lists
+---
 
 This rule is triggered when lists (of any kind) are either not preceded or not
 followed by a blank line:
