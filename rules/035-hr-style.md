@@ -1,8 +1,8 @@
-## MD035 - Horizontal rule style
-
-Tags: hr
-
-Aliases: hr-style
+---
+title: MD035 - Horizontal rule style
+tags:  [hr]
+alias: hr-style
+---
 
 Parameters: style ("consistent", "---", "***", or other string specifying the
 horizontal rule; default "consistent")
