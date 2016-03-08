@@ -1,8 +1,8 @@
-## MD023 - Headers must start at the beginning of the line
-
-Tags: headers, spaces
-
-Aliases: header-start-left
+---
+title: MD023 - Headers must start at the beginning of the line
+tags:  [headers, spaces]
+alias: header-start-left
+---
 
 This rule is triggered when a header is indented by one or more spaces:
 
