@@ -1,8 +1,8 @@
-## MD022 - Headers should be surrounded by blank lines
-
-Tags: headers, blank_lines
-
-Aliases: blanks-around-headers
+---
+title: MD022 - Headers should be surrounded by blank lines
+tags:  [headers, blank_lines]
+alias: blanks-around-headers
+---
 
 This rule is triggered when headers (any style) are either not preceded or not
 followed by a blank line:
