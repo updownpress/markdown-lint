@@ -1,8 +1,8 @@
-## MD025 - Multiple top level headers in the same document
-
-Tags: headers
-
-Aliases: single-h1
+---
+title: MD025 - Multiple top level headers in the same document
+tags:  [headers]
+alias: single-h1
+---
 
 This rule is triggered when a top level header is in use (the first line of
 the file is a h1 header), and more than one h1 header is in use in the
