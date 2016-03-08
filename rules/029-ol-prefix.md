@@ -1,8 +1,8 @@
-## MD029 - Ordered list item prefix
-
-Tags: ol
-
-Aliases: ol-prefix
+---
+title: MD029 - Ordered list item prefix
+tags:  [ol]
+alias: ol-prefix
+---
 
 Parameters: style ("one", "ordered"; default "one")
 
