@@ -1,8 +1,8 @@
-## MD031 - Fenced code blocks should be surrounded by blank lines
-
-Tags: code, blank_lines
-
-Aliases: blanks-around-fences
+---
+title: MD031 - Fenced code blocks should be surrounded by blank lines
+tags:  [code, blank_lines]
+alias: blanks-around-fences
+---
 
 This rule is triggered when fenced code blocks are either not preceded or not
 followed by a blank line:
