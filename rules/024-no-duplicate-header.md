@@ -1,8 +1,8 @@
-## MD024 - Multiple headers with the same content
-
-Tags: headers
-
-Aliases: no-duplicate-header
+---
+title: MD024 - Multiple headers with the same content
+tags:  [headers]
+alias: no-duplicate-header
+---
 
 This rule is triggered if there are multiple headers in the document that have
 the same text:
