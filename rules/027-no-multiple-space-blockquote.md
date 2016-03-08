@@ -1,8 +1,8 @@
-## MD027 - Multiple spaces after blockquote symbol
-
-Tags: blockquote, whitespace, indentation
-
-Aliases: no-multiple-space-blockquote
+---
+title: MD027 - Multiple spaces after blockquote symbol
+tags:  [blockquote, whitespace, indentation]
+alias: no-multiple-space-blockquote
+---
 
 This rule is triggered when blockquotes have more than one space after the
 blockquote (`>`) symbol:
