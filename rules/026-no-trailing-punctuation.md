@@ -1,8 +1,8 @@
-## MD026 - Trailing punctuation in header
-
-Tags: headers
-
-Aliases: no-trailing-punctuation
+---
+title: MD026 - Trailing punctuation in header
+tags:  [headers]
+alias: no-trailing-punctuation
+---
 
 Parameters: punctuation (string; default ".,;:!?")
 
