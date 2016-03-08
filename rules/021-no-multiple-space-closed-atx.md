@@ -1,8 +1,8 @@
-## MD021 - Multiple spaces inside hashes on closed atx style header
-
-Tags: headers, atx_closed, spaces
-
-Aliases: no-multiple-space-closed-atx
+---
+title: MD021 - Multiple spaces inside hashes on closed atx style header
+tags:  [headers, atx_closed, spaces]
+alias: no-multiple-space-closed-atx
+---
 
 This rule is triggered when more than one space is used to separate the
 header text from the hash characters in a closed atx style header:
