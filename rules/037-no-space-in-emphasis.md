@@ -1,8 +1,8 @@
-## MD037 - Spaces inside emphasis markers
-
-Tags: whitespace, emphasis
-
-Aliases: no-space-in-emphasis
+---
+title: MD037 - Spaces inside emphasis markers
+tags:  [whitespace, emphasis]
+alias: no-space-in-emphasis
+---
 
 This rule is triggered when emphasis markers (bold, italic) are used, but they
 have spaces between the markers and the text:
