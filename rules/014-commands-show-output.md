@@ -30,6 +30,6 @@ typed commands and command output, as in the following example:
 
 Rationale: it is easier to copy and paste and less noisy if the dollar signs
 are omitted when they are not needed. See
-<http://www.cirosantilli.com/markdown-styleguide/#dollar-signs-in-shell-code>
+<https://cirosantilli.com/markdown-style-guide#dollar-signs-in-shell-code>
 for more information.
 
