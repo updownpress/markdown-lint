@@ -62,7 +62,7 @@ If you don't specify a filename, markdownlint will use stdin:
     cat foo.md | mdl
 
 Markdownlint will output a list of issues it finds, and the line number where
-the issue is. See [RULES.md](docs/RULES.md) for information on each issue, as
+the issue is. See [RULES.md](rules/rules.md) for information on each issue, as
 well as how to correct it:
 
     README.md:1: MD013 Line length
@@ -73,7 +73,7 @@ well as how to correct it:
 
 Markdownlint has many more options you can pass on the command line, run
 `mdl --help` to see what they are, or see the documentation on
-[configuring markdownlint](docs/configuration.md).
+[configuring markdownlint](configuration.md).
 
 ### Styles
 
@@ -86,12 +86,12 @@ It's not markdownlint's intention to dictate any one specific style, and in
 order to support these differing styles and/or preferences, markdownlint
 supports what are called 'style files'. A style file is a file describing
 which rules markdownlint should enable, and also what settings to apply to
-individual rules. For example, rule [MD013](docs/RULES.md#md013---line-length)
+individual rules. For example, rule [MD013](rules/013-line-length.md)
 checks for long lines, and by default will report an issue for any line longer
 than 80 characters. If your project has a different maximum line length limit,
 or if you don't want to enforce a line limit at all, then this can be
 configured in a style file.
 
 For more information on creating style files, see the
-[creating styles](docs/creating_styles.md) document.
+[creating styles](creating_styles.md) document.
 
